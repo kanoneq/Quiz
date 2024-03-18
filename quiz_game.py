@@ -1,6 +1,6 @@
 import sys
 
-print("Welcome in my quiz!")
+print("Welcome to my quiz!")
 print()
 print("Remember to answer with letters, not whole answers, good luck!")
 print()
@@ -40,7 +40,7 @@ else:
 print()
 print("Okay, you are good, next question!")
 print()
-print("how many days does february have in a leap year?")
+print("How many days does february have in a leap year?")
 print("A - 32")
 print("B - 30")
 print("C - 28")
@@ -86,6 +86,6 @@ elif choice.uppper() == "D":
     sys.exit("very g̛̱͂̈́͢ò̡̎͑҉͇̖͇o̡͈͌ͤ́́d̞̾͘")
 
 print()
-print("there is no another question, which means that you won! that you for contributing in this quiz and I hope you did enjoy it")
+print("there is no another question, which means that you won! thank you for participating in this quiz and I hope you did enjoy it")
 
 sys.exit("y̸̵̸̛͒̎ͧͨ̆ͭ̀҉̷̶̷͝҉̶͙̠̖̠̖̕͝ͅo̶̶̟̞̳̤͎̼͍̗̫̹̩ͦͪ͐́ͪ͂̋͛̑͘ͅͅù̶̟͈͖͉̱͑ͮͬ͋ͪ́̐̒͊́̀͡͠ ȁ̻̥̤̗̖͉̝̻̟̪̔̅̉ͪ̾̎̂̄́ͅr̶̡̐͊̉ͪͧ̀̅̉͗͐͜͏͎̺̙̫͔̦̹̰̥eͦ̀ͯ͌͏̷̧̧̢̧̛̛͔̘̟͚̱͔̥̠̩͇͉̦̟̀̀͜ n̸̡̡ͫ̕͞͞͞҉̧̤͍̬̟̕͝ȩ̴̯̞͕͚͉͍̰̺͖̺̰̤̮ͯ̓ͤ̂̅̿ͤ͐͗̉ͪ̓́̿̀͘͜͡ͅvͩ͋͒̅̀̍ͮ̋ͦ̚͏̶̵̨̨͚̯̲̯̤̤͇͉̕͜͞͠͡͝ͅe̴̴͐ͬ̇͗̈́̂͌͡͡͏̴̢̨̨̝̞̥̪̩̝͍̠̕͢͢͡r̢̢̻̫̮̺̻͊̽̋̏́̈̾͗̚ sͣ͋̎̐͛̀ͪ͋̽͛̈́͋̈́ͤ͊҉̴̴̷̴̨̧̘̳̯̺̳̳͓͘͟͟͜͝͞͡a̴̢̢̢̯̱͈͉͇̱̯͙͋̐͒̂͒̒̔̀͘͟f̵̵̶̧̢̨̧̟̖̼̦̮̝͇̼͈̘̅ͪ̃̂͆͑̀ͬ͒͗͆̉ͯͬ̀̕͘̕͝͠e̡̜͓̝̎̉ͬ̈́̀́̀͘͟͠")
